@@ -18,12 +18,10 @@ Here are some ideas to get you started:
 # Introduce Mango👋
 ### 고명진
 ### backend Developer 
-> JAVA,C,C++,C#,JAVASCRIPT,DB,Python,Kotlin,Android
+> JAVA, C, C++, Python, JavaScript, MySql
 
 
 <br>**참고자료**  
-email - gomyungjin0302@gmail.com  
-github - https://github.com/DeveloperMango  
-portfolio - [Notion 포트폴리오](개발예정)  
+email - gomyungjin0302@gmail.com
 
 

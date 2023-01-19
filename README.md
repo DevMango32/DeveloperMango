@@ -4,9 +4,7 @@
 <p>
   <a href="https://studying-mango.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
 
-  <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/SoyeonKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-
-  <a href="https://instagram.com/cowkite" target="_blank"><img src="https://img.shields.io/badge/cowkite-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+  <a href="https://instagram.com/cowkite" target="_blank"><img src="https://img.shields.io/badge/cowkite-1DA1F2?style=flat-square&logo=instagram&logoColor=white"/></a>
 
   <a href="https://www.instagram.com/_mango_tango_/"><img src="http://img.shields.io/badge/instagram?style=flat-square&logo=Twitter&logoColor=white"/></a>
 

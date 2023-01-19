@@ -2,19 +2,26 @@
 # Introduce Mango👋
 ### 🤞 Nice way to meet me
 <p>
-  <a href="https://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://studying-mango.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+
   <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/SoyeonKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/cowkite" target="_blank"><img src="https://img.shields.io/badge/cowkite-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
-  <a href="mailto:iscowkite@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+  <a href="https://instagram.com/cowkite" target="_blank"><img src="https://img.shields.io/badge/cowkite-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+
+  <a href="https://www.instagram.com/_mango_tango_/"><img src="http://img.shields.io/badge/instagram?style=flat-square&logo=Twitter&logoColor=white"/></a>
+
+  <a href="mailto:gomyungjin0302@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gomyungjin0302@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <p>
 👋&nbsp; Hi! I'm Backend Developer</b>
  I have experience 4 years of C++ development.<br/>
  In the past, I graduated from a software-related high school. So I have skilled in MYSQL, JAVA, C, C++, C# HTML, CSS, and JavaScript.💖<br/>
-Currently, I am interested in react So I learning react, and I will also study Vue.js, TypeScript, and Next.js later🤗<br/>
-</p>
+ Currently, I am interested in react So I learning react, and I will also study Vue.js, TypeScript, and Next.js later🤗<br/>
+ I enjoy singing, swimming, and surf. 🎹🏄<br/>
+ Life is only once, I live happily. ✨ <br/><br/>
 
+</p>
 
 
 ### 💪 Skills

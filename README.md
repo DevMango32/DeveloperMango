@@ -3,8 +3,8 @@
 ### 🤞 Nice way to meet me
 <p>
   <a href="https://studying-mango.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="https://instagram.com/_mango_tango_" target="_blank"><img src="https://img.shields.io/badge/mango-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:gomyungjin0302@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gomyungjin0302@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/_mango__tango_" target="_blank"><img src="https://img.shields.io/badge/mango-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:gomyungjin0302@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gomyungjin0302@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <p>

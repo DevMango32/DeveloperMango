@@ -32,19 +32,20 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 </p>
 
-<br><br>
-
+<br>
 
 ### 💪 Skills
 #### Platforms & Languages
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c++-007396?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 </p>
 
 
+<!--
 #### Tools
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> 	
+-->

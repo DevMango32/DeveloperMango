@@ -3,7 +3,7 @@
 ### 🤞 Nice way to meet me
 <p>
   <a href="https://studying-mango.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/></a>
   <a href="https://instagram.com/_mango__tango_" target="_blank"><img src="https://img.shields.io/badge/mango-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
   <a href="mailto:gomyungjin0302@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gomyungjin0302@gmail.com-blue?style=flat&logo=Gmail&logoColor=white"/></a>
 
@@ -24,6 +24,8 @@
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 </p>
+
+<br>
 
 ### 🔥 Skills 🔥
 #### Platforms & Languages

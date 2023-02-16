@@ -28,15 +28,18 @@
 ### 🔥 Skills 🔥
 #### Platforms & Languages
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-f1d8d9?style=flat&logo=MySQL&logoColor=4479A1"/>
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVA-FF7800?style=flat&logo=CoffeeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-f1d8d9?style=flat&logo=MySQL&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-F43059?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>
+  
+  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 </p>
 
 
@@ -50,6 +53,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-pink?style=flat&logo=Redux&logoColor=764ABC"/>
 
+  <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
   <img src="https://img.shields.io/badge/Node.js-c2c5c5?style=flat&logo=Node.js&logoColor=339933"/>
   <img src="https://img.shields.io/badge/Bootstrap-yellow?style=flat&logo=Bootstrap&logoColor=7952B3"/>
 

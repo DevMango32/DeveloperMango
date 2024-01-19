@@ -1,6 +1,6 @@
 
 # Introduce Mango👋
-### 🤞 Nice way to meet me
+### Nice way to meet me
 <p>
   <a href="https://studying-mango.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/></a>
@@ -10,10 +10,10 @@
 </p>
 
 <p>
-👋&nbsp; Hi! I'm Backend Developer</b>
+&nbsp; Hi! I'm Backend Developer</b>
  I have experience 4 years of C++ development.<br/>   
  In the past, I graduated from a software-related high school. So I have skilled in MYSQL, JAVA, C, C++, HTML, JavaScript and Android.<br/>
- Currently, I am interested in react and I will also study Vue.js, TypeScript, and Next.js later🤗<br/>
+ Currently, I am interested in react and I will also study Vue.js, TypeScript, and Next.js later<br/>
  I enjoy 🎮Games, 🏄Swim and 🎥Movies. <br/>
  Life is only once, I live happily. ✨ <br/><br/>
 </p>

@@ -7,28 +7,25 @@
 I have 4 years of professional experience in C++ development.<br/>   
 I studied software engineering from high school to university, gaining skills in MYSQL, JAVA, C, C++, and Python.<br/>
 Currently, I'm exploring Unreal Engine 5.<br/>
-I enjoy gaming, swimming, and watching movies.<br/>
+I enjoy gaming🎮, swimming🏄, and watching movies🎥<br/>
 Life is short, so I choose to live it happily! <br/><br/>
 </p>
 
 <p>
-  <!--
-  <a href="https://studying-mango.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="https://instagram.com/_mango__tango_" target="_blank"><img src="https://img.shields.io/badge/mango-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-  -->
+<!--<a href="https://studying-mango.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat&logo=GitHub%20Sponsors&logoColor=white"/></a>  -->
+<!-- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/></a></a>  -->
 
-  
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/></a>
-
-  <a href="mailto:gomyungjin0302@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gomyungjin0302@gmail.com-blue?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://studying-mango.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat&logo=GitHub%20Sponsors&logoColor=white"/></a>
+<a href="https://instagram.com/_mango__tango_" target="_blank"><img src="https://img.shields.io/badge/mango-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+<a href="mailto:gomyungjin0302@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gomyungjin0302@gmail.com-blue?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ### 💻 Currently Learning
 <p>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Unreal_Engine-5.3.2-blue"/>
-  
+    <img src="https://img.shields.io/badge/Unreal_Engine-5-blue"/> 
 </p>
+
 <br>
 ### 🔥 Skills 🔥
 #### Platforms & Languages

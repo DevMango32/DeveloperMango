@@ -26,7 +26,6 @@ Life is short, so I choose to live it happily! <br/><br/>
     <img src="https://img.shields.io/badge/Unreal_Engine-5-blue"/> 
 </p>
 
-<br>
 ### 🔥 Skills 🔥
 #### Platforms & Languages
 <p>

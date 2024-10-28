@@ -26,8 +26,8 @@ Life is short, so I choose to live it happily! <br/><br/>
     <img src="https://img.shields.io/badge/Unreal_Engine-5-blue"/> 
 </p>
 
+
 ### 🔥 Skills 🔥
-#### Platforms & Languages
 <p>
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JAVA-FF7800?style=flat&logo=CoffeeScript&logoColor=white"/>
